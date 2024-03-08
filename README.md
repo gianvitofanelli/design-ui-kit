@@ -12,20 +12,20 @@ La risorsa del **design system .italia** per costruire e prototipare siti intern
 
 ## Ciao!
 
-**Questa è la versione 3 di UI Kit Italia, risorsa ufficiale del design system .italia. L’insieme di fondamenti e componenti utili ai designer per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita dei cittadini.**
+**Questa è la versione 3 di UI Kit Italia, risorsa ufficiale del design system .italia, l’insieme di fondamenti e componenti utili per progettare e prototipare siti internet e servizi digitali della Pubblica Amministrazione che rispettano le norme e semplificano la vita delle persone.**
 
 Scopri **[come iniziare](https://designers.italia.it/design-system/come-iniziare/per-designer)** a utilizzare il kit, approfondisci le risorse di sviluppo coerenti e la documentazione ufficiale del [design system .italia](https://designers.italia.it/design-system/) nel nuovo sito Designers Italia.
 
-UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dalla presente repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
+UI Kit Italia è disponibile dalla community [figma.com/@designersitalia](https://figma.com/@designersitalia) e scaricabile in locale (anche in formato Sketch) dalla repository [italia/design-ui-kit](https://github.com/italia/design-ui-kit). 
 
-I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) di UI Kit Italia sono disponibili per lo sviluppo, nei formati CSS e SCSS, dalla repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
+I [design tokens](https://designers.italia.it/design-system/fondamenti/design-tokens/) di UI Kit Italia sono disponibili per lo sviluppo, nei formati CSS e SCSS, nella repository [italia/design-tokens-italia](https://github.com/italia/design-tokens-italia).
 
 Scopri [come contribuire](https://designers.italia.it/design-system/come-contribuire/per-il-design/): per partecipare con segnalazioni o contributi puoi [aprire una segnalazione](https://github.com/italia/design-ui-kit/issues/new), o esplorare le attività e segnalazioni [in corso](https://github.com/italia/design-ui-kit/issues).
 
 ## Questa repository ospita: 
 
 - il salvataggio di UI Kit Italia v3+ nel suo formato nativo Figma (.fig), disponibile per visualizzazione, copia per l'uso e remix anche attraverso la [pagina della community Figma del progetto Designers Italia](https://figma.com/@designersitalia/); 
-- la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico per ogni release utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_, alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette;
+- la conversione nel [formato open Sketch](https://github.com/sketch-hq/sketch-document) (.sketch), realizzata in automatico per ogni release utilizzando la versione corrente (@latest) del convertitore [fig2sketch](https://github.com/sketch-hq/fig2sketch). Questa conversione è da considerare in stato di _testing_; alcune funzionalità nel file .sketch potrebbero non essere presenti e/o non corrette;
 - è presente la memoria storica della precedente versione v2 (nativa Sketch, deprecata) dello UI Kit, insieme con altri materiali d'archivio come lo studio per l'evoluzione dell'esperienza utente di SPID, nel [ramo 2.x](https://github.com/italia/design-ui-kit/tree/2.x).
 
 ## Come iniziare
